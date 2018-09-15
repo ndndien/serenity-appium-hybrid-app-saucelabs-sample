@@ -1,0 +1,18 @@
+{
+  "userName": "Dien Nguyen",
+  "gender": "male",
+  "dob": "",
+  "address": "1832 6B Huynh Tan Phat",
+  "city": "Ho Chi Minh",
+  "state": "abc",
+  "customerId": "",
+  "accountId": "",
+  "accountType": "Savings",
+  "deposit": "4444",
+  "transactionDesc": "",
+  "balance": "0",
+  "pin": "110690",
+  "mobilePhone": "0944994402",
+  "email": "ndndien99@gmail.com",
+  "pw": "tothemoon"
+}
