@@ -12,9 +12,10 @@ Change configs at: src/test/java/com/appium/serenirybdd/configs/MyConfigs.java
     
 ### Run
 
-mvn verify -Dtest=VerifyNewCustomerCucumber
+
+    mvn verify -Dtest=VerifyNewCustomerCucumber
     
-    With VerifyNewCustomerCucumber is a test runner
+With VerifyNewCustomerCucumber is a test runner
 
 ### Author
 
